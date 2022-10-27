@@ -60,9 +60,7 @@
 }
 @media screen and (min-width:768px) {
     .footer-content__inner {
-        padding-right: 0;
-        padding-left: 0;
-        padding-bottom: 60px;
+        padding: 60px 0;
         max-width: 420px;
     }
     .footer-txt__inner {
