@@ -62,6 +62,7 @@
     .footer-content__inner {
         padding-right: 0;
         padding-left: 0;
+        padding-bottom: 60px;
         max-width: 420px;
     }
     .footer-txt__inner {
