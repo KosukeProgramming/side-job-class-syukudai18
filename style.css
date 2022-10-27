@@ -48,6 +48,8 @@
 .footer-txt__inner {
     display: flex;
     flex-direction: column;
+}
+.footer-txt__inner a {
     color: #fff;
 }
 .footer__txt-privacy {
