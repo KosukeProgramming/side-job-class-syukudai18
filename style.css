@@ -48,6 +48,7 @@
 .footer-txt__inner {
     display: flex;
     flex-direction: column;
+    color: #fff;
 }
 .footer__txt-privacy {
     margin-bottom: 40px;
