@@ -27,7 +27,7 @@ time, mark, audio, video {
     background:transparent;
 }
 body {
-    font-family: 'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体',serif;
+    font-family: "Yu Mincho", YuMincho, "Hiragino Mincho ProN", serif;
     line-height: 1.5;
 }
 
